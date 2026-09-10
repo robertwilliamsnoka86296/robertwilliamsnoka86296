@@ -1,5 +1,13 @@
-### Hi there, I'm Robertwilliams 👋
+# Hi there, I'm Robert Williams 👋
 
-- 🔭 Embedded systems and IoT developer bridging hardware with modern web APIs.
-- 🏢 Working at Modern Web Labs
-- 📍 Based in Seattle, WA
+Systems Programmer & Linux Enthusiast
+
+📍 Based in **Portland, OR**
+
+### 💻 Tech Stack & Interests
+- 🌐 Web Technologies: JavaScript, TypeScript, HTML5, CSS3
+- 🛠️ Tools & Environments: Git, Cloudflare, Linux, VS Code
+- 📚 Continuous Learner | Open-source enthusiast
+
+---
+*Self-taught developer building clean, high-performance web applications.*
